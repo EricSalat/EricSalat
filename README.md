@@ -8,7 +8,7 @@ Hi' I'm Èric Salat, a Front-end Developer 🚀 from Barcelona, Spain. Currently
 - 🌱 I'm currently learning Next.js
 - 🌐 My [professional website](https://www.ericsalat.com)
 - 📩 How to reach me: ericsalatb@gmail.com
-- 📝 [Resume](https://ericsalat.com/static/media/cv_en.a62b564cb5b8b31a3074.pdf)
+- 📝 [Resume](https://ericsalat.vercel.app/CV_ERIC_SALAT_2023_EN.pdf)
 
 **Languages and Tools:**
 - HTML
